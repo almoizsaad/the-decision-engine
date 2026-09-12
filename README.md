@@ -9,9 +9,6 @@ deploy gating, and content moderation.
 > **Live demo:**[https://decision-engine-rouge.vercel.app/](https://decision-engine-rouge.vercel.app/)
 
 
-> the Netlify equivalent) — see [DEPLOYMENT.md](./DEPLOYMENT.md). This repo runs fully client-side
-> with no API keys, so any static host works._
-
 ## Why this exists
 
 Most "AI agent" demos wire a model up to tools and call it done. The interesting problem isn't
