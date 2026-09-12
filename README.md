@@ -6,7 +6,7 @@ used, what's missing, a reversibility assessment, and a full audit trail. Four d
 wired into the same, unmodified scoring function: support ticket triage, refund approval, code
 deploy gating, and content moderation.
 
-> **Live demo:** _add your deployed URL here after running `npm run build && vercel deploy` (or
+> **Live demo:** _<الرابط هنا>
 > the Netlify equivalent) — see [DEPLOYMENT.md](./DEPLOYMENT.md). This repo runs fully client-side
 > with no API keys, so any static host works._
 
