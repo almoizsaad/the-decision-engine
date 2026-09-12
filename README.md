@@ -6,7 +6,8 @@ used, what's missing, a reversibility assessment, and a full audit trail. Four d
 wired into the same, unmodified scoring function: support ticket triage, refund approval, code
 deploy gating, and content moderation.
 
-> **Live demo:** _<الرابط هنا>
+> **Live demo:**[https://eyond-the-chatbot.vercel.app/](https://eyond-the-chatbot.vercel.app/)
+
 > the Netlify equivalent) — see [DEPLOYMENT.md](./DEPLOYMENT.md). This repo runs fully client-side
 > with no API keys, so any static host works._
 
