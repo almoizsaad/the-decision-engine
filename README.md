@@ -27,7 +27,7 @@ npm install
 npm run dev       # → http://localhost:3000
 ```
 
-No `.env` file, no API keys, no backend to stand up — see [`.env.example`](./.env.example).
+
 
 Other useful commands:
 
